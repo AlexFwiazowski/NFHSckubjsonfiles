@@ -1,0 +1,1097 @@
+[
+ {
+   "Club Name": "Senior Board-2025",
+   "Leadership": 7,
+   "Creativity": 4,
+   "Social": 6,
+   "Analytical": 4,
+   "Physical": 3,
+   "Community-Oriented": 10,
+   "Academic Focus": 6,
+   "Competitive": 6,
+   "Creative Arts": 4,
+   "Technology": {
+      "Innovation": 3
+   }
+},
+ {
+   "Club Name": "Junior Board-2026",
+   "Leadership": 7,
+   "Creativity": 4,
+   "Social": 6,
+   "Analytical": 4,
+   "Physical": 3,
+   "Community-Oriented": 10,
+   "Academic Focus": 6,
+   "Competitive": 6,
+   "Creative Arts": 4,
+   "Technology": {
+      "Innovation": 3
+   }
+},
+ {
+   "Club Name": "Sophomore Board-2027",
+   "Leadership": 7,
+   "Creativity": 4,
+   "Social": 6,
+   "Analytical": 4,
+   "Physical": 3,
+   "Community-Oriented": 10,
+   "Academic Focus": 6,
+   "Competitive": 6,
+   "Creative Arts": 4,
+   "Technology": {
+      "Innovation": 3
+   }
+},
+ {
+   "Club Name": "Freshmen Board-2028",
+   "Leadership": 7,
+   "Creativity": 4,
+   "Social": 6,
+   "Analytical": 4,
+   "Physical": 3,
+   "Community-Oriented": 10,
+   "Academic Focus": 6,
+   "Competitive": 6,
+   "Creative Arts": 4,
+   "Technology": {
+      "Innovation": 3
+   }
+},
+ {
+   "Club Name": "Arabic Club",
+   "Leadership": 3,
+   "Creativity": 5,
+   "Social": 7,
+   "Analytical": 6,
+   "Physical": 2,
+   "Community-Oriented": 9,
+   "Academic Focus": 4,
+   "Competitive": 4,
+   "Creative Arts": 4,
+   "Technology": {
+      "Innovation": 5
+   }
+},
+ {
+   "Club Name": "Asian American Student Union",
+   "Leadership": 3,
+   "Creativity": 5,
+   "Social": 8,
+   "Analytical": 6,
+   "Physical": 2,
+   "Community-Oriented": 9,
+   "Academic Focus": 4,
+   "Competitive": 4,
+   "Creative Arts": 4,
+   "Technology": {
+      "Innovation": 5
+   }
+},
+ {
+   "Club Name": "ASL Club (American Sign Language)",
+   "Leadership": 5,
+   "Creativity": 6,
+   "Social": 8,
+   "Analytical": 6,
+   "Physical": 2,
+   "Community-Oriented": 9,
+   "Academic Focus": 4,
+   "Competitive": 4,
+   "Creative Arts": 6,
+   "Technology": {
+      "Innovation": 5
+   }
+},
+ {
+   "Club Name": "Black Student Union",
+   "Leadership": 3,
+   "Creativity": 5,
+   "Social": 8,
+   "Analytical": 6,
+   "Physical": 2,
+   "Community-Oriented": 9,
+   "Academic Focus": 4,
+   "Competitive": 4,
+   "Creative Arts": 4,
+   "Technology": {
+      "Innovation": 5
+   }
+},
+ {
+   "Club Name": "Chaldean American Student Association (CASA)",
+   "Leadership": 5,
+   "Creativity": 5,
+   "Social": 7,
+   "Analytical": 6,
+   "Physical": 2,
+   "Community-Oriented": 9,
+   "Academic Focus": 4,
+   "Competitive": 4,
+   "Creative Arts": 4,
+   "Technology": {
+      "Innovation": 5
+   }
+},
+ {
+   "Club Name": "Cultural Club",
+   "Leadership": 3,
+   "Creativity": 7,
+   "Social": 8,
+   "Analytical": 6,
+   "Physical": 2,
+   "Community-Oriented": 9,
+   "Academic Focus": 4,
+   "Competitive": 4,
+   "Creative Arts": 6,
+   "Technology": {
+      "Innovation": 5
+   }
+},
+ {
+   "Club Name": "Diversity Club",
+   "Leadership": 3,
+   "Creativity": 5,
+   "Social": 8,
+   "Analytical": 6,
+   "Physical": 2,
+   "Community-Oriented": 9,
+   "Academic Focus": 4,
+   "Competitive": 4,
+   "Creative Arts": 4,
+   "Technology": {
+      "Innovation": 5
+   }
+},
+ {
+   "Club Name": "French Club",
+   "Leadership": 3,
+   "Creativity": 5,
+   "Social": 7,
+   "Analytical": 6,
+   "Physical": 2,
+   "Community-Oriented": 9,
+   "Academic Focus": 6,
+   "Competitive": 4,
+   "Creative Arts": 4,
+   "Technology": {
+      "Innovation": 5
+   }
+},
+ {
+   "Club Name": "Gender & Sexuality Alliance (G.S.A.)",
+   "Leadership": 3,
+   "Creativity": 5,
+   "Social": 8,
+   "Analytical": 6,
+   "Physical": 2,
+   "Community-Oriented": 9,
+   "Academic Focus": 4,
+   "Competitive": 4,
+   "Creative Arts": 4,
+   "Technology": {
+      "Innovation": 5
+   }
+},
+ {
+   "Club Name": "Japanese Club",
+   "Leadership": 3,
+   "Creativity": 5,
+   "Social": 8,
+   "Analytical": 6,
+   "Physical": 2,
+   "Community-Oriented": 9,
+   "Academic Focus": 4,
+   "Competitive": 4,
+   "Creative Arts": 4,
+   "Technology": {
+      "Innovation": 5
+   }
+},
+ {
+   "Club Name": "Jewish Student Connection",
+   "Leadership": 5,
+   "Creativity": 5,
+   "Social": 7,
+   "Analytical": 6,
+   "Physical": 2,
+   "Community-Oriented": 9,
+   "Academic Focus": 4,
+   "Competitive": 4,
+   "Creative Arts": 4,
+   "Technology": {
+      "Innovation": 5
+   }
+},
+ {
+   "Club Name": "KPOP (Korean Popular Dance Team)",
+   "Leadership": 5,
+   "Creativity": 10,
+   "Social": 9,
+   "Analytical": 4,
+   "Physical": 8,
+   "Community-Oriented": 8,
+   "Academic Focus": 3,
+   "Competitive": 9,
+   "Creative Arts": 10,
+   "Technology": {
+      "Innovation": 5
+   }
+},
+ {
+   "Club Name": "Muslim Student Association",
+   "Leadership": 3,
+   "Creativity": 5,
+   "Social": 8,
+   "Analytical": 6,
+   "Physical": 2,
+   "Community-Oriented": 9,
+   "Academic Focus": 4,
+   "Competitive": 4,
+   "Creative Arts": 4,
+   "Technology": {
+      "Innovation": 5
+   }
+},
+ {
+   "Club Name": "Spanish Club",
+   "Leadership": 3,
+   "Creativity": 5,
+   "Social": 7,
+   "Analytical": 6,
+   "Physical": 2,
+   "Community-Oriented": 9,
+   "Academic Focus": 6,
+   "Competitive": 4,
+   "Creative Arts": 4,
+   "Technology": {
+      "Innovation": 5
+   }
+},
+ {
+   "Club Name": "Wicked Andaaz (South Asian Competitive Dance)",
+   "Leadership": 5,
+   "Creativity": 10,
+   "Social": 9,
+   "Analytical": 4,
+   "Physical": 8,
+   "Community-Oriented": 8,
+   "Academic Focus": 3,
+   "Competitive": 9,
+   "Creative Arts": 10,
+   "Technology": {
+      "Innovation": 5
+   }
+},
+ {
+   "Club Name": "South Asian Student Association",
+   "Leadership": 4,
+   "Creativity": 6,
+   "Social": 8,
+   "Analytical": 6,
+   "Physical": 2,
+   "Community-Oriented": 9,
+   "Academic Focus": 5,
+   "Competitive": 5,
+   "Creative Arts": 5,
+   "Technology": {
+      "Innovation": 5
+   }
+},
+ {
+   "Club Name": "Pretty Brown Girls",
+   "Leadership": 4,
+   "Creativity": 7,
+   "Social": 9,
+   "Analytical": 4,
+   "Physical": 6,
+   "Community-Oriented": 8,
+   "Academic Focus": 4,
+   "Competitive": 6,
+   "Creative Arts": 9,
+   "Technology": {
+      "Innovation": 4
+   }
+},
+ {
+   "Club Name": "North Farmington Glee Club",
+   "Leadership": 4,
+   "Creativity": 10,
+   "Social": 8,
+   "Analytical": 4,
+   "Physical": 3,
+   "Community-Oriented": 8,
+   "Academic Focus": 5,
+   "Competitive": 6,
+   "Creative Arts": 10,
+   "Technology": {
+      "Innovation": 5
+   }
+},
+ {
+   "Club Name": "Fashion Club",
+   "Leadership": 3,
+   "Creativity": 10,
+   "Social": 7,
+   "Analytical": 5,
+   "Physical": 3,
+   "Community-Oriented": 8,
+   "Academic Focus": 6,
+   "Competitive": 4,
+   "Creative Arts": 9,
+   "Technology": {
+      "Innovation": 5
+   }
+},
+ {
+   "Club Name": "Dance Company",
+   "Leadership": 4,
+   "Creativity": 10,
+   "Social": 8,
+   "Analytical": 4,
+   "Physical": 9,
+   "Community-Oriented": 8,
+   "Academic Focus": 5,
+   "Competitive": 8,
+   "Creative Arts": 10,
+   "Technology": {
+      "Innovation": 4
+   }
+},
+ {
+   "Club Name": "Jazz Ensemble/Club Jazz",
+   "Leadership": 5,
+   "Creativity": 10,
+   "Social": 6,
+   "Analytical": 5,
+   "Physical": 3,
+   "Community-Oriented": 7,
+   "Academic Focus": 6,
+   "Competitive": 8,
+   "Creative Arts": 10,
+   "Technology": {
+      "Innovation": 5
+   }
+},
+ {
+   "Club Name": "Marching Band",
+   "Leadership": 5,
+   "Creativity": 7,
+   "Social": 6,
+   "Analytical": 5,
+   "Physical": 9,
+   "Community-Oriented": 7,
+   "Academic Focus": 6,
+   "Competitive": 8,
+   "Creative Arts": 10,
+   "Technology": {
+      "Innovation": 5
+   }
+},
+ {
+   "Club Name": "Theater/Thespian/Musical",
+   "Leadership": 5,
+   "Creativity": 10,
+   "Social": 7,
+   "Analytical": 5,
+   "Physical": 3,
+   "Community-Oriented": 8,
+   "Academic Focus": 6,
+   "Competitive": 6,
+   "Creative Arts": 10,
+   "Technology": {
+      "Innovation": 5
+   }
+},
+ {
+   "Club Name": "Vocal Music/ Madrigal Choir",
+   "Leadership": 5,
+   "Creativity": 10,
+   "Social": 7,
+   "Analytical": 5,
+   "Physical": 3,
+   "Community-Oriented": 8,
+   "Academic Focus": 6,
+   "Competitive": 6,
+   "Creative Arts": 10,
+   "Technology": {
+      "Innovation": 5
+   }
+},
+ {
+   "Club Name": "Business Professionals of America (BPA)",
+   "Leadership": 10,
+   "Creativity": 4,
+   "Social": 5,
+   "Analytical": 7,
+   "Physical": 2,
+   "Community-Oriented": 9,
+   "Academic Focus": 9,
+   "Competitive": 9,
+   "Creative Arts": 4,
+   "Technology": {
+      "Innovation": 4
+   }
+},
+ {
+   "Club Name": "DECA (Marketing)",
+   "Leadership": 9,
+   "Creativity": 6,
+   "Social": 5,
+   "Analytical": 7,
+   "Physical": 2,
+   "Community-Oriented": 9,
+   "Academic Focus": 9,
+   "Competitive": 9,
+   "Creative Arts": 4,
+   "Technology": {
+      "Innovation": 4
+   }
+},
+ {
+   "Club Name": "Debate Club",
+   "Leadership": 9,
+   "Creativity": 6,
+   "Social": 6,
+   "Analytical": 9,
+   "Physical": 2,
+   "Community-Oriented": 7,
+   "Academic Focus": 9,
+   "Competitive": 10,
+   "Creative Arts": 4,
+   "Technology": {
+      "Innovation": 4
+   }
+},
+ {
+   "Club Name": "Link Crew (Freshmen Transition)",
+   "Leadership": 10,
+   "Creativity": 4,
+   "Social": 9,
+   "Analytical": 5,
+   "Physical": 3,
+   "Community-Oriented": 10,
+   "Academic Focus": 6,
+   "Competitive": 6,
+   "Creative Arts": 4,
+   "Technology": {
+      "Innovation": 4
+   }
+},
+ {
+   "Club Name": "Model United Nations",
+   "Leadership": 9,
+   "Creativity": 5,
+   "Social": 5,
+   "Analytical": 10,
+   "Physical": 2,
+   "Community-Oriented": 7,
+   "Academic Focus": 10,
+   "Competitive": 10,
+   "Creative Arts": 4,
+   "Technology": {
+      "Innovation": 4
+   }
+},
+ {
+   "Club Name": "National Honor Society",
+   "Leadership": 10,
+   "Creativity": 4,
+   "Social": 6,
+   "Analytical": 9,
+   "Physical": 2,
+   "Community-Oriented": 8,
+   "Academic Focus": 10,
+   "Competitive": 6,
+   "Creative Arts": 4,
+   "Technology": {
+      "Innovation": 4
+   }
+},
+ {
+   "Club Name": "Psychology Club",
+   "Leadership": 6,
+   "Creativity": 7,
+   "Social": 7,
+   "Analytical": 9,
+   "Physical": 2,
+   "Community-Oriented": 7,
+   "Academic Focus": 9,
+   "Competitive": 5,
+   "Creative Arts": 4,
+   "Technology": {
+      "Innovation": 4
+   }
+},
+ {
+   "Club Name": "Student Round Table",
+   "Leadership": 8,
+   "Creativity": 6,
+   "Social": 8,
+   "Analytical": 8,
+   "Physical": 2,
+   "Community-Oriented": 9,
+   "Academic Focus": 8,
+   "Competitive": 7,
+   "Creative Arts": 4,
+   "Technology": {
+      "Innovation": 4
+   }
+},
+ {
+   "Club Name": "Student Senate (Student Government)",
+   "Leadership": 10,
+   "Creativity": 5,
+   "Social": 7,
+   "Analytical": 8,
+   "Physical": 2,
+   "Community-Oriented": 9,
+   "Academic Focus": 9,
+   "Competitive": 8,
+   "Creative Arts": 4,
+   "Technology": {
+      "Innovation": 4
+   }
+},
+ {
+   "Club Name": "HOSA (Health Occup. Students of America)",
+   "Leadership": 7,
+   "Creativity": 5,
+   "Social": 7,
+   "Analytical": 8,
+   "Physical": 3,
+   "Community-Oriented": 9,
+   "Academic Focus": 9,
+   "Competitive": 7,
+   "Creative Arts": 4,
+   "Technology": {
+      "Innovation": 5
+   }
+},
+ {
+   "Club Name": "Skills U. S. A.",
+   "Leadership": 7,
+   "Creativity": 5,
+   "Social": 5,
+   "Analytical": 10,
+   "Physical": 4,
+   "Community-Oriented": 7,
+   "Academic Focus": 8,
+   "Competitive": 10,
+   "Creative Arts": 4,
+   "Technology": {
+      "Innovation": 5
+   }
+},
+ {
+   "Club Name": "Creative Writing",
+   "Leadership": 5,
+   "Creativity": 10,
+   "Social": 7,
+   "Analytical": 6,
+   "Physical": 2,
+   "Community-Oriented": 7,
+   "Academic Focus": 8,
+   "Competitive": 6,
+   "Creative Arts": 10,
+   "Technology": {
+      "Innovation": 5
+   }
+},
+ {
+   "Club Name": "Newspaper",
+   "Leadership": 6,
+   "Creativity": 8,
+   "Social": 7,
+   "Analytical": 7,
+   "Physical": 2,
+   "Community-Oriented": 8,
+   "Academic Focus": 8,
+   "Competitive": 6,
+   "Creative Arts": 10,
+   "Technology": {
+      "Innovation": 5
+   }
+},
+ {
+   "Club Name": "Yearbook",
+   "Leadership": 6,
+   "Creativity": 8,
+   "Social": 7,
+   "Analytical": 7,
+   "Physical": 2,
+   "Community-Oriented": 8,
+   "Academic Focus": 8,
+   "Competitive": 6,
+   "Creative Arts": 10,
+   "Technology": {
+      "Innovation": 5
+   }
+},
+ {
+   "Club Name": "HACKBOTS (Robotics)",
+   "Leadership": 7,
+   "Creativity": 6,
+   "Social": 5,
+   "Analytical": 10,
+   "Physical": 2,
+   "Community-Oriented": 6,
+   "Academic Focus": 9,
+   "Competitive": 10,
+   "Creative Arts": 4,
+   "Technology": {
+      "Innovation": 10
+   }
+},
+ {
+   "Club Name": "Green Team (After School Recycling)",
+   "Leadership": 4,
+   "Creativity": 5,
+   "Social": 7,
+   "Analytical": 7,
+   "Physical": 2,
+   "Community-Oriented": 10,
+   "Academic Focus": 4,
+   "Competitive": 5,
+   "Creative Arts": 4,
+   "Technology": {
+      "Innovation": 6
+   }
+},
+ {
+   "Club Name": "Science Olympiad",
+   "Leadership": 6,
+   "Creativity": 5,
+   "Social": 5,
+   "Analytical": 10,
+   "Physical": 2,
+   "Community-Oriented": 7,
+   "Academic Focus": 10,
+   "Competitive": 10,
+   "Creative Arts": 4,
+   "Technology": {
+      "Innovation": 7
+   }
+},
+ {
+   "Club Name": "AI Club",
+   "Leadership": 5,
+   "Creativity": 7,
+   "Social": 5,
+   "Analytical": 10,
+   "Physical": 2,
+   "Community-Oriented": 6,
+   "Academic Focus": 9,
+   "Competitive": 8,
+   "Creative Arts": 4,
+   "Technology": {
+      "Innovation": 10
+   }
+},
+ {
+   "Club Name": "Cheerleading",
+   "Leadership": 8,
+   "Creativity": 5,
+   "Social": 6,
+   "Analytical": 6,
+   "Physical": 10,
+   "Community-Oriented": 6,
+   "Academic Focus": 5,
+   "Competitive": 9,
+   "Creative Arts": 5,
+   "Technology": {
+      "Innovation": 5
+   }
+},
+ {
+   "Club Name": "Farmington United Girls Field Hockey Team",
+   "Leadership": 8,
+   "Creativity": 5,
+   "Social": 5,
+   "Analytical": 7,
+   "Physical": 10,
+   "Community-Oriented": 7,
+   "Academic Focus": 6,
+   "Competitive": 10,
+   "Creative Arts": 4,
+   "Technology": {
+      "Innovation": 5
+   }
+},
+ {
+   "Club Name": "United Farmington Figure Skating Team",
+   "Leadership": 7,
+   "Creativity": 5,
+   "Social": 6,
+   "Analytical": 7,
+   "Physical": 10,
+   "Community-Oriented": 7,
+   "Academic Focus": 6,
+   "Competitive": 9,
+   "Creative Arts": 4,
+   "Technology": {
+      "Innovation": 5
+   }
+},
+ {
+   "Club Name": "Winter Running Club NFHS",
+   "Leadership": 7,
+   "Creativity": 5,
+   "Social": 6,
+   "Analytical": 6,
+   "Physical": 10,
+   "Community-Oriented": 6,
+   "Academic Focus": 5,
+   "Competitive": 9,
+   "Creative Arts": 4,
+   "Technology": {
+      "Innovation": 5
+   }
+},
+ {
+   "Club Name": "Auto Club",
+   "Leadership": 5,
+   "Creativity": 6,
+   "Social": 5,
+   "Analytical": 7,
+   "Physical": 9,
+   "Community-Oriented": 7,
+   "Academic Focus": 6,
+   "Competitive": 8,
+   "Creative Arts": 4,
+   "Technology": {
+      "Innovation": 10
+   }
+},
+ {
+   "Club Name": "Cancer Kids First Club",
+   "Leadership": 5,
+   "Creativity": 7,
+   "Social": 9,
+   "Analytical": 4,
+   "Physical": 2,
+   "Community-Oriented": 10,
+   "Academic Focus": 6,
+   "Competitive": 5,
+   "Creative Arts": 4,
+   "Technology": {
+      "Innovation": 4
+   }
+},
+ {
+   "Club Name": "Chess Club",
+   "Leadership": 5,
+   "Creativity": 6,
+   "Social": 5,
+   "Analytical": 9,
+   "Physical": 1,
+   "Community-Oriented": 7,
+   "Academic Focus": 9,
+   "Competitive": 7,
+   "Creative Arts": 4,
+   "Technology": {
+      "Innovation": 5
+   }
+},
+ {
+   "Club Name": "Controversial Discussion Club",
+   "Leadership": 7,
+   "Creativity": 6,
+   "Social": 8,
+   "Analytical": 9,
+   "Physical": 2,
+   "Community-Oriented": 5,
+   "Academic Focus": 8,
+   "Competitive": 10,
+   "Creative Arts": 4,
+   "Technology": {
+      "Innovation": 4
+   }
+},
+ {
+   "Club Name": "Culinary Club",
+   "Leadership": 5,
+   "Creativity": 10,
+   "Social": 8,
+   "Analytical": 4,
+   "Physical": 3,
+   "Community-Oriented": 10,
+   "Academic Focus": 4,
+   "Competitive": 6,
+   "Creative Arts": 10,
+   "Technology": {
+      "Innovation": 4
+   }
+},
+ {
+   "Club Name": "CyberPatriot",
+   "Leadership": 8,
+   "Creativity": 6,
+   "Social": 5,
+   "Analytical": 10,
+   "Physical": 2,
+   "Community-Oriented": 6,
+   "Academic Focus": 9,
+   "Competitive": 10,
+   "Creative Arts": 4,
+   "Technology": {
+      "Innovation": 10
+   }
+},
+ {
+   "Club Name": "Esports",
+   "Leadership": 7,
+   "Creativity": 5,
+   "Social": 7,
+   "Analytical": 8,
+   "Physical": 4,
+   "Community-Oriented": 6,
+   "Academic Focus": 6,
+   "Competitive": 10,
+   "Creative Arts": 4,
+   "Technology": {
+      "Innovation": 7
+   }
+},
+ {
+   "Club Name": "Gaming Club",
+   "Leadership": 5,
+   "Creativity": 6,
+   "Social": 8,
+   "Analytical": 6,
+   "Physical": 4,
+   "Community-Oriented": 6,
+   "Academic Focus": 6,
+   "Competitive": 10,
+   "Creative Arts": 4,
+   "Technology": {
+      "Innovation": 6
+   }
+},
+ {
+   "Club Name": "HEAL",
+   "Leadership": 7,
+   "Creativity": 7,
+   "Social": 9,
+   "Analytical": 6,
+   "Physical": 2,
+   "Community-Oriented": 10,
+   "Academic Focus": 6,
+   "Competitive": 6,
+   "Creative Arts": 4,
+   "Technology": {
+      "Innovation": 4
+   }
+},
+ {
+   "Club Name": "Hot Rodders of Tomorrow",
+   "Leadership": 7,
+   "Creativity": 5,
+   "Social": 5,
+   "Analytical": 9,
+   "Physical": 8,
+   "Community-Oriented": 6,
+   "Academic Focus": 6,
+   "Competitive": 10,
+   "Creative Arts": 4,
+   "Technology": {
+      "Innovation": 7
+   }
+},
+ {
+   "Club Name": "Junior Optimist Club",
+   "Leadership": 9,
+   "Creativity": 5,
+   "Social": 8,
+   "Analytical": 6,
+   "Physical": 3,
+   "Community-Oriented": 10,
+   "Academic Focus": 6,
+   "Competitive": 7,
+   "Creative Arts": 4,
+   "Technology": {
+      "Innovation": 5
+   }
+},
+ {
+   "Club Name": "Knitting & Crochet Club",
+   "Leadership": 4,
+   "Creativity": 7,
+   "Social": 8,
+   "Analytical": 4,
+   "Physical": 2,
+   "Community-Oriented": 10,
+   "Academic Focus": 5,
+   "Competitive": 4,
+   "Creative Arts": 7,
+   "Technology": {
+      "Innovation": 3
+   }
+},
+ {
+   "Club Name": "Pickleball Club",
+   "Leadership": 5,
+   "Creativity": 4,
+   "Social": 6,
+   "Analytical": 5,
+   "Physical": 10,
+   "Community-Oriented": 6,
+   "Academic Focus": 5,
+   "Competitive": 7,
+   "Creative Arts": 4,
+   "Technology": {
+      "Innovation": 5
+   }
+},
+ {
+   "Club Name": "Law Club",
+   "Leadership": 9,
+   "Creativity": 4,
+   "Social": 6,
+   "Analytical": 10,
+   "Physical": 2,
+   "Community-Oriented": 7,
+   "Academic Focus": 9,
+   "Competitive": 8,
+   "Creative Arts": 4,
+   "Technology": {
+      "Innovation": 4
+   }
+},
+ {
+   "Club Name": "Political Debate Club",
+   "Leadership": 9,
+   "Creativity": 5,
+   "Social": 6,
+   "Analytical": 10,
+   "Physical": 2,
+   "Community-Oriented": 7,
+   "Academic Focus": 9,
+   "Competitive": 10,
+   "Creative Arts": 4,
+   "Technology": {
+      "Innovation": 4
+   }
+},
+ {
+   "Club Name": "Red Cross Club",
+   "Leadership": 8,
+   "Creativity": 6,
+   "Social": 9,
+   "Analytical": 5,
+   "Physical": 2,
+   "Community-Oriented": 10,
+   "Academic Focus": 6,
+   "Competitive": 5,
+   "Creative Arts": 4,
+   "Technology": {
+      "Innovation": 5
+   }
+},
+ {
+   "Club Name": "Rubik’s Cube Club",
+   "Leadership": 5,
+   "Creativity": 6,
+   "Social": 5,
+   "Analytical": 10,
+   "Physical": 1,
+   "Community-Oriented": 5,
+   "Academic Focus": 8,
+   "Competitive": 9,
+   "Creative Arts": 4,
+   "Technology": {
+      "Innovation": 5
+   }
+},
+ {
+   "Club Name": "Step Team",
+   "Leadership": 7,
+   "Creativity": 8,
+   "Social": 8,
+   "Analytical": 5,
+   "Physical": 8,
+   "Community-Oriented": 8,
+   "Academic Focus": 5,
+   "Competitive": 9,
+   "Creative Arts": 10,
+   "Technology": {
+      "Innovation": 4
+   }
+},
+ {
+   "Club Name": "VTS Club",
+   "Leadership": 7,
+   "Creativity": 5,
+   "Social": 6,
+   "Analytical": 8,
+   "Physical": 2,
+   "Community-Oriented": 6,
+   "Academic Focus": 8,
+   "Competitive": 7,
+   "Creative Arts": 4,
+   "Technology": {
+      "Innovation": 5
+   }
+},
+ {
+   "Club Name": "Investment Club",
+   "Leadership": 10,
+   "Creativity": 6,
+   "Social": 5,
+   "Analytical": 9,
+   "Physical": 2,
+   "Community-Oriented": 7,
+   "Academic Focus": 10,
+   "Competitive": 9,
+   "Creative Arts": 4,
+   "Technology": {
+      "Innovation": 5
+   }
+},
+ {
+   "Club Name": "Financial Literacy Club",
+   "Leadership": 8,
+   "Creativity": 5,
+   "Social": 6,
+   "Analytical": 8,
+   "Physical": 2,
+   "Community-Oriented": 7,
+   "Academic Focus": 10,
+   "Competitive": 6,
+   "Creative Arts": 4,
+   "Technology": {
+      "Innovation": 4
+   }
+},
+ {
+   "Club Name": "Vet Club",
+   "Leadership": 7,
+   "Creativity": 5,
+   "Social": 6,
+   "Analytical": 6,
+   "Physical": 4,
+   "Community-Oriented": 10,
+   "Academic Focus": 5,
+   "Competitive": 6,
+   "Creative Arts": 4,
+   "Technology": {
+      "Innovation": 4
+   }
+},
+ {
+   "Club Name": "Senior Smiles Club",
+   "Leadership": 5,
+   "Creativity": 7,
+   "Social": 10,
+   "Analytical": 4,
+   "Physical": 2,
+   "Community-Oriented": 10,
+   "Academic Focus": 4,
+   "Competitive": 5,
+   "Creative Arts": 4,
+   "Technology": {
+      "Innovation": 4
+   }
+}
+]
